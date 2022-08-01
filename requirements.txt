@@ -1,0 +1,10 @@
+pystyle
+cursor
+colorama
+bs4
+requests
+requests_toolbelt
+capmonster_python
+websocket
+slowprint
+simple_colors
