@@ -30,16 +30,16 @@ axi = """
                               › Press Enter...
 """
 axigen = """
-                                                     ███                                              
-                           ▄████████ ▀████    ▐████▀                  ▄██████▄     ▄████████ ███▄▄▄▄      ▄████████    ▄████████    ▄████████     ███      ▄██████▄     ▄████████ 
-                          ███    ███   ███▌   ████▀  ███             ███    ███   ███    ███ ███▀▀▀██▄   ███    ███   ███    ███   ███    ███ ▀█████████▄ ███    ███   ███    ███ 
-                          ███    ███    ███  ▐███    ███▌            ███    █▀    ███    █▀  ███   ███   ███    █▀    ███    ███   ███    ███    ▀███▀▀██ ███    ███   ███    ███ 
-                          ███    ███    ▀███▄███▀    ███▌           ▄███         ▄███▄▄▄     ███   ███  ▄███▄▄▄      ▄███▄▄▄▄██▀   ███    ███     ███   ▀ ███    ███  ▄███▄▄▄▄██▀ 
-                        ▀███████████    ████▀██▄     ███▌          ▀▀███ ████▄  ▀▀███▀▀▀     ███   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ▀███████████     ███     ███    ███ ▀▀███▀▀▀▀▀   
-                          ███    ███   ▐███  ▀███    ███             ███    ███   ███    █▄  ███   ███   ███    █▄  ▀███████████   ███    ███     ███     ███    ███ ▀███████████ 
-                          ███    ███  ▄███     ███▄  ███             ███    ███   ███    ███ ███   ███   ███    ███   ███    ███   ███    ███     ███     ███    ███   ███    ███ 
-                          ███    █▀  ████       ███▄ ███             ████████▀    ██████████  ▀█   █▀    ██████████   ███    ███   ███    █▀     ▄████▀    ▀██████▀    ███    ███ 
-                                                                                                                      ███    ███                                       ███    ███ 
+                                      
+      ▄██████▄     ▄████████ ███▄▄▄▄      ▄████████    ▄████████    ▄████████     ███      ▄██████▄     ▄████████ 
+     ███    ███   ███    ███ ███▀▀▀██▄   ███    ███   ███    ███   ███    ███ ▀█████████▄ ███    ███   ███    ███ 
+     ███    █▀    ███    █▀  ███   ███   ███    █▀    ███    ███   ███    ███    ▀███▀▀██ ███    ███   ███    ███ 
+    ▄███         ▄███▄▄▄     ███   ███  ▄███▄▄▄      ▄███▄▄▄▄██▀   ███    ███     ███   ▀ ███    ███  ▄███▄▄▄▄██▀ 
+   ▀▀███ ████▄  ▀▀███▀▀▀     ███   ███ ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   ▀███████████     ███     ███    ███ ▀▀███▀▀▀▀▀   
+     ███    ███   ███    █▄  ███   ███   ███    █▄  ▀███████████   ███    ███     ███     ███    ███ ▀███████████ 
+     ███    ███   ███    ███ ███   ███   ███    ███   ███    ███   ███    ███     ███     ███    ███   ███    ███ 
+     ████████▀    ██████████  ▀█   █▀    ██████████   ███    ███   ███    █▀     ▄████▀    ▀██████▀    ███    ███ 
+                                                      ███    ███                                       ███    ███ 
                                                    
                                                    > Press Enter..."""
 System.Size(200,40)
@@ -54,7 +54,7 @@ class Booster:
         self.config         = json.load(open('./data/config.json', 'r'))
         self.proxies        = open('./data/proxies.txt', 'r').read().splitlines()
         if not len(self.proxies):
-            print(f"\n{Fore.RED}[{Fore.RESET}{Fore.MAGENTA}!{Fore.RESET}{Fore.RED}]{Fore.RESET} No proxy found in proxy folder.\n{Fore.RED}[{Fore.RESET}{Fore.MAGENTA}!{Fore.RESET}{Fore.RED}]{Fore.RESET} Please edit the config file in the data folder.") # Err if proxy file is empty!
+            print(f"\n{Fore.RED}[{Fore.RESET}{Fore.MAGENTA}!{Fore.RESET}{Fore.RED}]{Fore.RESET} No proxy found in proxy folder.\n{Fore.RED}[{Fore.RESET}{Fore.MAGENTA}!{Fore.RESET}{Fore.RED}]{Fore.RESET} Please edit the config file in the data folder.") # err if no proxy in data/proxies.txt
             time.sleep(10)
             os._exit(0)
         self.usernames      = open('./data/usernames.txt', 'r').read().splitlines()
@@ -229,7 +229,7 @@ class Booster:
             self.captcha_tokens.append(captcha_token)
             with open("./data/tokens.txt", "a") as x: x.write(f'{token}\n')
             with open("./data/accounts.txt", "a") as x: x.write(f'{email}:{self.config["password"]}:{token}\n')
-            self.print(f'{self.ljoined}{self.blue} Joined Server!  {self.purp} {self.cyan} ' + token)
+            self.print(f'{self.ljoined}{self.blue} Joined server  {self.purp} {self.cyan} ' + token)
 
         except Exception as e:
             if captcha_token in self.captcha_tokens:
@@ -246,6 +246,7 @@ class Booster:
                 proxy = random.choice(self.proxies)
                 capmonster = HCaptchaTask(self.config["capmonster_key"])
                 task_id = capmonster.create_task("https://discord.com/register", "4c672d35-0701-42b2-88c3-78380b0db560")
+                #self.print(f'{self.green}Task    {self.purp}|{self.cyan} ' + str(task_id))
                 captcha_token = capmonster.join_task_result(task_id)["gRecaptchaResponse"]
                 self.print(f'{self.lcaptcha}{self.green} Captcha Passed!  ' + captcha_token[:15])
                 
