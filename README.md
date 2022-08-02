@@ -1,6 +1,8 @@
 
 # Discord-Token-Generator
 
+30 ⭐ for Free Capthca Bypass
+
 60 ⭐ for mail verification
 
 120 ⭐ for full verification
