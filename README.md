@@ -1,6 +1,8 @@
 
 # Discord-Token-Generator
 
+U Can buy mail verification Version Contact me! Dorukuz#4445
+
 30 ⭐ for Free Capthca Bypass
 
 60 ⭐ for mail verification
