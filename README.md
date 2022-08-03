@@ -1,7 +1,7 @@
 
 # Discord-Token-Generator
 
-U Can buy mail Verifed token Version for 25$ Contact me! Dorukuz#4445
+U Can buy mail Verifed token generator for 25$ Contact me! Dorukuz#4445
 
 30 ⭐ for Free Capthca Bypass
 
