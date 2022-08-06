@@ -1,6 +1,8 @@
 
 # Discord-Token-Generator
 
+Support Server: https://discord.gg/8WcBRHBr8g
+
 U Can buy mail Verifed token generator for Lifetime 25$ Contact me! Dorukuz#4445
 
 ✅ (30 ⭐ for Free Capthca Bypass)  working on it
@@ -36,7 +38,7 @@ put your capmonster key and server invite code in data\config.json .
 You can contact me from:
 Discord: Dorukuz#4445
 Twitter: https://twitter.com/DorukUzgur
-
+Discord Server: https://discord.gg/8WcBRHBr8g
 # DISCLAIMER
 
 ## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
