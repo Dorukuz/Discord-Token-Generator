@@ -3,9 +3,9 @@
 
 U Can buy mail Verifed token generator for Lifetime 25$ Contact me! Dorukuz#4445
 
-✅ (30 ⭐ for Free Capthca Bypass) working on it
+✅ (30 ⭐ for Free Capthca Bypass)  working on it
 
-60 ⭐ for mail verification
+✅ (60 ⭐ for mail verification) working on it
 
 250 ⭐ for full verification
 
