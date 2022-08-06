@@ -7,7 +7,7 @@ U Can buy mail Verifed token generator for Lifetime 25$ Contact me! Dorukuz#4445
 
 60 ⭐ for mail verification
 
-150 ⭐ for full verification
+250 ⭐ for full verification
 
 Axi Token Generator / Joiner / Onliner Made By Dorukuz#4445
 
