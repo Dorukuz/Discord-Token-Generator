@@ -7,7 +7,7 @@ U Can buy mail Verifed token generator for Lifetime 25$ Contact me! Dorukuz#4445
 
 ✅ (30 ⭐ for Free Capthca Bypass)  working on it
 
-✅ (60 ⭐ for mail verification) working on it
+120 ⭐ for mail verification
 
 
 Axi Token Generator / Joiner / Onliner Made By Dorukuz#4445
