@@ -3,7 +3,10 @@
 
 Support Server: https://discord.gg/8WcBRHBr8g
 
-U Can buy mail Verifed token generator for Lifetime 25$ Contact me! Dorukuz#4445
+MailVerified Token Generator Prices Have Dropped!
+- Source Code: $100
+- Lifetime EXE: $20
+Contact me! Dorukuz#4445
 
 ✅ (30 ⭐ for Free Capthca Bypass)  working on it
 
