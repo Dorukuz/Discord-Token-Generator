@@ -10,7 +10,7 @@ Contact me! Dorukuz#4445
 
 ✅ (30 ⭐ for Free Capthca Bypass)  working on it
 
-120 ⭐ for mail verification
+200 ⭐ for mail verification
 
 
 Axi Token Generator / Joiner / Onliner Made By Dorukuz#4445
