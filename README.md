@@ -40,6 +40,7 @@ put your capmonster key and server invite code in data\config.json .
 You can contact me from:
 Discord: Dorukuz#4445
 Twitter: https://twitter.com/DorukUzgur
+Telegram: https://t.me/dorukuz
 Discord Server: https://discord.gg/8WcBRHBr8g
 # DISCLAIMER
 
