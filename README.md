@@ -1,19 +1,22 @@
 
 # Discord-Token-Generator
 
+My Main Account Is Banned Add My New Acc Definitely Not Dorukuz#1315 (852821279136415745)
+
+
 Support Server: https://discord.gg/8WcBRHBr8g
 
 MailVerified Token Generator Prices Have Dropped!
 - Source Code: $100
 - Lifetime EXE: $20
-Contact me! Dorukuz#4445
+Contact me! Definitely Not Dorukuz#1315
 
 ✅ (30 ⭐ for Free Capthca Bypass)  working on it
 
 200 ⭐ for mail verification
 
 
-Axi Token Generator / Joiner / Onliner Made By Dorukuz#4445
+Axi Token Generator / Joiner / Onliner Made By Definitely Not Dorukuz#1315
 
 
 
@@ -38,7 +41,7 @@ put your capmonster key and server invite code in data\config.json .
 # CONTACT / HELP
 
 You can contact me from:
-Discord: Dorukuz#4445
+Discord: Definitely Not Dorukuz#1315
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 Discord Server: https://discord.gg/8WcBRHBr8g
