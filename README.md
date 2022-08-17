@@ -1,7 +1,7 @@
 
 # Discord-Token-Generator
 
-My Main Account Is Banned Add My New Acc Definitely Not Dorukuz#1315 (852821279136415745)
+My Main Account Is Banned Add My New Acc "Definitely Not Dorukuz#1315" (852821279136415745)
 
 
 Support Server: https://discord.gg/8WcBRHBr8g
@@ -9,7 +9,7 @@ Support Server: https://discord.gg/8WcBRHBr8g
 MailVerified Token Generator Prices Have Dropped!
 - Source Code: $100
 - Lifetime EXE: $20
-Contact me! Definitely Not Dorukuz#1315
+Contact me! "Definitely Not Dorukuz#1315"
 
 ✅ (30 ⭐ for Free Capthca Bypass)  working on it
 
