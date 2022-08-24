@@ -47,6 +47,7 @@ You can contact me from:
 Discord: Definitely Not Dorukuz#1315
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
+ICQ: https://icq.im/Dorukuz
 Discord Server: https://discord.gg/8WcBRHBr8g
 # DISCLAIMER
 
