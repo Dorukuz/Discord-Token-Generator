@@ -5,6 +5,7 @@ My Main Account Is Banned Add My New Acc "Definitely Not Dorukuz#1315" (85282127
 
 
 Support Server: https://discord.gg/8WcBRHBr8g
+Telegram Channel: https://t.me/AxiDevelopment
 
 MailVerified Token Generator Prices Have Dropped!
 - Source Code: $100
@@ -49,6 +50,7 @@ Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
 Discord Server: https://discord.gg/8WcBRHBr8g
+Telegram Channel: https://t.me/AxiDevelopment
 # DISCLAIMER
 
 ## This github repo is for EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS REPO.
