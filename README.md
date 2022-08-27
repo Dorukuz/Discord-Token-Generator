@@ -4,7 +4,7 @@
 My Main Account Is Banned Add My New Acc "Definitely Not Dorukuz#1315" (852821279136415745)
 
 
-Support Server: https://discord.gg/6QHApXGy4E
+Support Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
 
 MailVerified Token Generator Prices Have Dropped!
@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/53555245/182259714-186bc818-625a-489e-
 # How to use
 
 WILL NOT WORK WITHOUT API KEY
-
+WILL NOT WORK WITHOUT BALANCE ON CAPMONSTER
 put your Proxy(s) in data\proxies.txt .
 put your capmonster key and server invite code in data\config.json .
 ```json
@@ -49,7 +49,7 @@ Discord: Definitely Not Dorukuz#1315
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
-Discord Server: https://discord.gg/6QHApXGy4E
+Discord Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
 # DISCLAIMER
 
