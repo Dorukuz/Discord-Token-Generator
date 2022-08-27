@@ -4,7 +4,7 @@
 My Main Account Is Banned Add My New Acc "Definitely Not Dorukuz#1315" (852821279136415745)
 
 
-Support Server: https://discord.gg/8WcBRHBr8g
+Support Server: https://discord.gg/6QHApXGy4E
 Telegram Channel: https://t.me/AxiDevelopment
 
 MailVerified Token Generator Prices Have Dropped!
@@ -49,7 +49,7 @@ Discord: Definitely Not Dorukuz#1315
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
-Discord Server: https://discord.gg/8WcBRHBr8g
+Discord Server: https://discord.gg/6QHApXGy4E
 Telegram Channel: https://t.me/AxiDevelopment
 # DISCLAIMER
 
