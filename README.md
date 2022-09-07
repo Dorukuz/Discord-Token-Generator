@@ -1,9 +1,6 @@
 
 # Discord-Token-Generator
 
-My Main Account Is Banned Add My New Acc "Definitely Not Dorukuz#1315" (852821279136415745)
-
-
 Support Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
 
@@ -13,14 +10,10 @@ MailVerified Token Generator Prices Have Dropped!
 - Hcaptcha bypass Source 100$
 - Monthly Hcaptcha Bypass 20$
 ByPass Time : 1.23 Sec
-Contact me! "Definitely Not Dorukuz#1315"
-
-✅ (30 ⭐ for Free Capthca Bypass)  working on it
-
-200 ⭐ for mail verification
+Contact me! "Dorukuz#4555"
 
 
-Axi Token Generator / Joiner / Onliner Made By Definitely Not Dorukuz#1315
+Axi Token Generator / Joiner / Onliner Made By Dorukuz#4555
 
 
 
@@ -45,7 +38,7 @@ put your [CapMonster](https://capmonster.cloud) key and server invite code in da
 # CONTACT / HELP
 
 You can contact me from:
-Discord: Definitely Not Dorukuz#1315
+Discord: Dorukuz#4555
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
