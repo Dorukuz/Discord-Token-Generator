@@ -8,7 +8,6 @@ MailVerified Token Generator Prices Have Dropped!
 - Source Code: $100
 - Lifetime EXE: $20
 - Hcaptcha bypass Source 100$
-- Monthly Hcaptcha Bypass 20$
 ByPass Time : 1.23 Sec
 Contact me! "Dorukuz#4555"
 
