@@ -7,10 +7,10 @@ from pystyle import *
 import hashlib
 
 
-System.Title("Axi Token Generator ^| Made By Dorukuz#4445")
+System.Title("Axi Token Generator ^| Made By Dorukuz#4555")
 axi = """
                                                      ███
-                         ▄████████ ▀████    ▐████▀   
+                           ▄████████ ▀████    ▐████▀   
                           ███    ███   ███▌   ████▀  ███  
                           ███    ███    ███  ▐███    ███▌ 
                           ███    ███    ▀███▄███▀    ███▌ 
@@ -21,7 +21,7 @@ axi = """
                                                                                  
               
               ⌜――――――――――――――――――――――――――――――――――――――――――――――――――――⌝
-              ┇      [Discord] https://discord.gg/aZFAZryzEF       ┇
+              ┇      [Discord] https://discord.gg/qQrMUXp2M2       ┇
               ┇      [Github]  https://github.com/Dorukuz          ┇
               ⌞――――――――――――――――――――――――――――――――――――――――――――――――――――⌟
 
@@ -57,7 +57,7 @@ class Booster:
             print(f"\n{Fore.RED}[{Fore.RESET}{Fore.MAGENTA}!{Fore.RESET}{Fore.RED}]{Fore.RESET} No proxy found in proxy folder.\n{Fore.RED}[{Fore.RESET}{Fore.MAGENTA}!{Fore.RESET}{Fore.RED}]{Fore.RESET} Please edit the config file in the data folder.") # err if no proxy in data/proxies.txt
             time.sleep(10)
             os._exit(0)
-        self.usernames      = open('./data/usernames.txt', 'r').read().splitlines()
+        self.usernames      = open('./data/usernames.txt', 'r',encoding='utf8').read().splitlines()
 
         
         self.threads        = self.config['threads']
