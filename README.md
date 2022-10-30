@@ -5,21 +5,18 @@ Support Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
 
 Mail Verifed Generator
-- Source Code: $100
-- Lifetime EXE: $50
+- Source Code: $75
+- Lifetime EXE: $25
 Discord Member Booster
 - Source Code: $100 
 - Monthly : $15
 - Lifetime EXE: $50
 Bypass
-- Hcaptcha bypass Source 100$
-Token Onliner
-- Discord Token Onliner 5$
-- Discord Token Onliner Source 25$
+- Hcaptcha bypass Source 75$
+  ByPass Time : 1.23 Sec
 
-ByPass Time : 1.23 Sec
 Contact me! "Dorukuz#4555"
-
+            https://t.me/Dorukuz
 
 Axi Token Generator / Joiner / Onliner Made By Dorukuz#4555
 
