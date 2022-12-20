@@ -1,5 +1,5 @@
 
-# Discord-Token-Generator
+# [OUTDATED] Discord-Token-Generator
 
 Support Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
