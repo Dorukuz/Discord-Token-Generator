@@ -4,14 +4,11 @@
 Support Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
 
-Instagram Account Generator
-- Source Code (py file): $500
-- Lifetime EXE: $100
+Mail And Phone Verifed Generator
+- Source Code (py file): $150
+- Lifetime EXE: $50
 - Monthly : $20
 
-Mail Verifed Generator
-- Source Code: $75
-- Lifetime EXE: $25
 Discord Member Booster
 - Source Code: $100 
 - Monthly : $15
