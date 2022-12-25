@@ -13,8 +13,10 @@ Discord Member Booster
 - Source Code: $100 
 - Monthly : $15
 - Lifetime EXE: $50
+
 Bypass
-- Hcaptcha bypass Source 175$
+- Ai Captcha bypass Source 175$
+- Ai Captcha bypass 50$
   ByPass Time : 1.23 Sec
 
 Contact me! "Dorukuz#4555"
