@@ -19,10 +19,10 @@ Bypass
 - Ai Captcha bypass 50$
   ByPass Time : 1.23 Sec
 
-Contact me! "Dorukuz#4555"
+Contact me! "Axi#1510"
             https://t.me/Dorukuz
 
-Axi Token Generator / Joiner / Onliner Made By Dorukuz#4555
+Axi Token Generator / Joiner / Onliner Made By Axi#1510
 
 
 
