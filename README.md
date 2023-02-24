@@ -1,23 +1,7 @@
 
-# [OUTDATED] Discord-Token-Generator
+# [OUTDATED] Discord-Token-Generator Axi#1510
 
-Support Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
-
-Mail And Phone Verifed Generator
-- Source Code (py file): $150
-- Lifetime EXE: $50
-- Monthly : $20
-
-Discord Member Booster
-- Source Code: $100 
-- Monthly : $15
-- Lifetime EXE: $50
-
-Bypass
-- Ai Captcha bypass Source 175$
-- Ai Captcha bypass 50$
-  ByPass Time : 1.23 Sec
 
 Contact me! "Axi#1510"
             https://t.me/Dorukuz
@@ -47,11 +31,10 @@ put your [CapMonster](https://capmonster.cloud) key and server invite code in da
 # CONTACT / HELP
 
 You can contact me from:
-Discord: Dorukuz#4555
+Discord: Axi#1510
 Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
-Discord Server: https://discord.gg/qQrMUXp2M2
 Telegram Channel: https://t.me/AxiDevelopment
 # DISCLAIMER
 
