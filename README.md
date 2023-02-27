@@ -1,7 +1,7 @@
 
 # [OUTDATED] Discord-Token-Generator Axi#1510
 
-WORKING VERSION RELEAS IN 200 STARS
+# UPDATED VERSION RELEAS IN 200 STARS
 
 Telegram Channel: https://t.me/AxiDevelopment
 Discord server: https://discord.gg/t2uCTEMqGD
