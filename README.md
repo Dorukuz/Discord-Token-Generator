@@ -1,5 +1,5 @@
 
-# [OUTDATED] Discord-Token-Generator Axi#1510
+# [OUTDATED] Discord-Token-Generator
 
 # UPDATED VERSION RELEAS IN 200 STARS
 
