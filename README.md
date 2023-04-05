@@ -9,7 +9,7 @@ Contact me! https://t.me/Dorukuz
 
 Axi Token Generator / Joiner / Onliner Made By Dorukuz
 
-
+Dorukuz#4555
 
 https://user-images.githubusercontent.com/53555245/182259714-186bc818-625a-489e-b328-167cfa63be42.mp4
 
