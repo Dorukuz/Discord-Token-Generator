@@ -7,7 +7,7 @@ from pystyle import *
 import hashlib
  
 
-System.Title("Axi Token Generator ^| Made By Dorukuz#4555")
+System.Title("Axi Token Generator ^| Made By Dorukuz#2351")
 axi = """
                                                      ███
                            ▄████████ ▀████    ▐████▀   
@@ -21,7 +21,7 @@ axi = """
                                                                                  
               
               ⌜――――――――――――――――――――――――――――――――――――――――――――――――――――⌝
-              ┇      [Discord] https://discord.gg/qQrMUXp2M2       ┇
+              ┇      [Discord] Dorukuz#2351                        ┇
               ┇      [Github]  https://github.com/Dorukuz          ┇
               ⌞――――――――――――――――――――――――――――――――――――――――――――――――――――⌟
 
