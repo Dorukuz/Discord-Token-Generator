@@ -13,7 +13,9 @@ Axi Token Generator / Joiner / Onliner Made By Dorukuz
 
 Discord : Dorukuz#2351
 
-https://axi-shop.tebex.io
+All sales are stopped for 1 months dm me for custom projects!
+
+https://t.me/Dorukuz
 
 https://user-images.githubusercontent.com/53555245/182259714-186bc818-625a-489e-b328-167cfa63be42.mp4
 
