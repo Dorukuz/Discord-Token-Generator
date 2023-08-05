@@ -3,17 +3,19 @@
 
 # UPDATED VERSION RELEAS IN 200 STARS
 
+# Paid Version is 25$ Contact me!
+
 Telegram Channel: https://t.me/AxiDevelopment
 
 Contact me! https://t.me/Dorukuz
 
-Discord : Dorukuz#2351
+Discord : dorukuz
 
 Axi Token Generator / Joiner / Onliner Made By Dorukuz
 
-Discord : Dorukuz#2351
+Discord : dorukuz
 
-All sales are stopped for 1 months dm me for custom projects!
+
 
 https://t.me/Dorukuz
 
