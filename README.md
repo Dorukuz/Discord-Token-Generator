@@ -1,9 +1,27 @@
 
 # [OUTDATED] Discord-Token-Generator
 
-# UPDATED VERSION RELEAS IN 200 STARS
+# UPDATED VERSION WILL BE RELEASED  WHEN THIS REPO GETS 200 STARS
 
-# Paid Version is 25$ Contact me!
+New Discord User booster will only be sold 5 monthly license ,2 EXE files (lifetime), and 1 Source code!
+
+Be fast if you want to buy!
+
+
+Monthly 20$ 
+Exe file (Lifetime) 75$
+Source code 250$
+
+CRYPTO AND CREDIT CARD(Gift Card) PAYMENT ONLY
+
+https://t.me/Dorukuz
+
+
+
+
+
+
+
 
 Telegram Channel: https://t.me/AxiDevelopment
 
