@@ -9,8 +9,9 @@ Be fast if you want to buy!
 
 
 Monthly 20$ 
-Exe file (Lifetime) 75$
-Source code 250$
+Exe file (Lifetime) 50$
+
+Source code 100$
 
 CRYPTO AND CREDIT CARD(Gift Card) PAYMENT ONLY
 
