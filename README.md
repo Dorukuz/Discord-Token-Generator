@@ -3,26 +3,6 @@
 
 # UPDATED VERSION WILL BE RELEASED  WHEN THIS REPO GETS 200 STARS
 
-New Discord User booster will only be sold 5 monthly license ,2 EXE files (lifetime), and 1 Source code!
-
-Be fast if you want to buy!
-
-
-Monthly 20$ 
-Exe file (Lifetime) 50$
-
-Source code 100$
-
-CRYPTO AND CREDIT CARD(Gift Card) PAYMENT ONLY
-
-https://t.me/Dorukuz
-
-
-
-
-
-
-
 
 Telegram Channel: https://t.me/AxiDevelopment
 
@@ -59,7 +39,6 @@ put your [CapMonster](https://capmonster.cloud) key and server invite code in da
 # CONTACT / HELP
 
 You can contact me from:
-Twitter: https://twitter.com/DorukUzgur
 Telegram: https://t.me/dorukuz
 ICQ: https://icq.im/Dorukuz
 Telegram Channel: https://t.me/AxiDevelopment
