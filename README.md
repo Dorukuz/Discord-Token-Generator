@@ -3,6 +3,19 @@
 
 # UPDATED VERSION WILL BE RELEASED  WHEN THIS REPO GETS 200 STARS
 
+New Discord ID IP grabber!
+A tool to find ip from a user’s discord ID!
+
+Limited Acces!
+
+Monthly 50$ 
+Lifetime 200$
+Source code 500$
+
+Crypto payment only!
+
+https://t.me/Dorukuz
+
 
 Telegram Channel: https://t.me/AxiDevelopment
 
