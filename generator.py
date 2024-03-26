@@ -21,7 +21,7 @@ axi = """
                                                                                  
               
               ⌜――――――――――――――――――――――――――――――――――――――――――――――――――――⌝
-              ┇      [Discord] Dorukuz#2351                        ┇
+              ┇      [Telegram] https://t.me/Dorukuz               ┇
               ┇      [Github]  https://github.com/Dorukuz          ┇
               ⌞――――――――――――――――――――――――――――――――――――――――――――――――――――⌟
 
