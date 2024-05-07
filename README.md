@@ -1,3 +1,4 @@
+
 # Discord-Token-Generator
 
 **Notice:** This repository is currently outdated. An updated version will be released once this repository receives 200 stars.
@@ -52,7 +53,9 @@ This tool is designed for generating Discord tokens with mail and phone verifica
 - **Additional GB (orders over 60GB)**: $1.5 per GB
 
 ## Usage
-https://user-images.githubusercontent.com/53555245/182259714-186bc818-625a-489e-b328-167cfa63be42.mp4
+
+https://github.com/Dorukuz/Discord-Token-Generator/assets/53555245/08563db0-3700-4672-bf7a-0bdbbb9ff963
+
 **Important:** The tool will not function without an API key and a balance on CapMonster.
 
 1. Place your proxies in `data/proxies.txt`.
