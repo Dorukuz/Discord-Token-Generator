@@ -52,7 +52,7 @@ This tool is designed for generating Discord tokens with mail and phone verifica
 - **Additional GB (orders over 60GB)**: $1.5 per GB
 
 ## Usage
-
+https://user-images.githubusercontent.com/53555245/182259714-186bc818-625a-489e-b328-167cfa63be42.mp4
 **Important:** The tool will not function without an API key and a balance on CapMonster.
 
 1. Place your proxies in `data/proxies.txt`.
