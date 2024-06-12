@@ -77,3 +77,13 @@ If you need help or have any questions, feel free to reach out through the follo
 ## Disclaimer
 
 **Educational Use Only**: This repository is intended solely for educational purposes. The owner is not liable for any misuse or illegal activities conducted with the use of this repository.
+
+## Star History
+
+<a href="https://star-history.com/#Dorukuz/Discord-Token-Generator&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Dorukuz/Discord-Token-Generator&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Dorukuz/Discord-Token-Generator&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Dorukuz/Discord-Token-Generator&type=Date" />
+ </picture>
+</a>
