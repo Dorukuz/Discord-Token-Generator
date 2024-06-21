@@ -7,50 +7,18 @@
 
 This tool is designed for generating Discord tokens with mail and phone verification. It requires only a proxy and an [onlinesim.io](https://onlinesim.io) balance. Included in the tool are features for mail verification and an AI-driven captcha solver.
 
-## Pricing
+## New TOOL to mine BTC wallet!
+The program that you see in TikTok etc. (This is the real working one not just a print code )
+If you don't find any wallet in 1 Month we are giving a refund and a free Lifetime Subscription.
 
-### Discord Mail and Phone Verified Token Generator
-- **Monthly**: $35.00
-- **Lifetime**: $150.00
-- **Source Code**: $500.00
+BTC Wallet Miner (FWM V1) Monthly - $50
+ 
+BTC Wallet Miner (FWM V1)  Lifetime - $350
+ 
+BTC Wallet Miner (FWM V1)  Source code  - $500
 
-### Discord Mail Verified Token Generator
-- **Monthly**: $20.00
-- **Lifetime**: $70.00
-- **Source Code**: $150.00
-
-### Discord Member Booster (AI Solver)
-- **Monthly**: $20.00
-- **Lifetime**: $75.00
-- **Source Code**: $250.00
-
-### Additional Tools
-
-#### Instagram Account Generators
-- **Source Code**: $250.00
-- **Lifetime**: $55.00
-- **Monthly**: $15.00
-
-#### Discord Tools
-- **Vanity URL Sniper (Lifetime)**: $15.00
-- **ID IP Grabber**:
-  - **Monthly**: $30.00
-  - **Lifetime**: $100.00
-  - **Source Code**: $250.00
-
-#### AI Solver
-- **Monthly**: $50.00
-- **Lifetime**: $250.00
-- **Source Code**: $500.00
-
-#### TikTok Username Checker (Lifetime): $35.00
-
-### Proxy Packages
-- **5GB Residential Proxies**: $20
-- **10GB Residential Proxies**: $30
-- **20GB Residential Proxies**: $45
-- **40GB Residential Proxies**: $70
-- **Additional GB (orders over 60GB)**: $1.5 per GB
+-All crypto coins are accepted-
+https://t.me/Dorukuz
 
 ## Usage
 
