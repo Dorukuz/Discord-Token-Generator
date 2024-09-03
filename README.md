@@ -1,4 +1,6 @@
 
+[Check out Proxyscrape for the Cheapest and Highest Quality Proxies.](https://proxyscrape.com/?ref=nde4yti)
+
 # Discord-Token-Generator
 
 **Notice:** This repository is currently outdated. An updated version will be released once this repository receives 200 stars.
