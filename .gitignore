@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Downloaded models
+/models/*.weights
+/models/*.cfg
+
+# Generated files
+tokens.txt
+accounts.txt
+proxies.txt
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
+*.bak
+
+# IDE configs
+.vscode/
+.idea/
+*.swp
+
+# Windows specific
+Thumbs.db
+Desktop.ini
