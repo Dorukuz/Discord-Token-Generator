@@ -1,45 +1,82 @@
+<div align="center">
+  <h1>Discord Token Generator</h1>
+  <p>
+    <b>Powerful token generator with AI-powered captcha solving</b>
+  </p>
+</div>
 
-[Check out Proxyscrape for the Cheapest and Highest Quality Proxies.](https://proxyscrape.com/?ref=nde4yti)
+## ✨ Features
 
-# Discord-Token-Generator
+- **AI Captcha Solver** - Automatically solves hCaptcha without external services
+- **Proxy Integration** - Auto-fetches and rotates fresh proxies
+- **Modern UI** - Clean console interface with status updates
+- **Smart Retries** - Intelligent error handling and connection recovery
+- **Zero API Costs** - No need for paid captcha solving services
 
-**Notice:** This repository is currently outdated. An updated version will be released once this repository receives 200 stars.
+## ⚙️ Installation
 
-## Introduction
+```bash
+# Clone the repository
+git clone https://github.com/Dorukuz/Discord-Token-Generator.git
 
-This tool is designed for generating Discord tokens with mail and phone verification. It requires only a proxy and an [onlinesim.io](https://onlinesim.io) balance. Included in the tool are features for mail verification and an AI-driven captcha solver.
+# Navigate to the directory
+cd Discord-Token-Generator
 
-## Usage
+# Install requirements
+pip install -r requirements.txt
 
-https://github.com/Dorukuz/Discord-Token-Generator/assets/53555245/08563db0-3700-4672-bf7a-0bdbbb9ff963
-
-**Important:** The tool will not function without an API key and a balance on CapMonster.
-
-1. Place your proxies in `data/proxies.txt`.
-2. Enter your CapMonster key and server invite code in `data/config.json` as shown below:
-
-```json
-{
-    "invite_code": "Put your invite code here! ONLY THE CODE",
-    "capmonster_key": "Put your capmonster API key here!"
-}
+# Run the generator
+python generator.py
 ```
-## Contact and Support
 
-If you need help or have any questions, feel free to reach out through the following channels:
-- **Telegram**: [Contact me on Telegram](https://t.me/dorukuz)
-- **Telegram Channel for Updates**: [AxiDevelopment](https://t.me/AxiDevelopment)
+## 🚀 Usage
 
-## Disclaimer
+1. Run the generator: `python generator.py`
+2. The tool will automatically fetch free proxies
+3. Select option 1 to generate tokens
+4. Enter the number of tokens you want to create
+5. Let the AI handle captchas automatically
+6. Check `tokens.txt` for your generated tokens
 
-**Educational Use Only**: This repository is intended solely for educational purposes. The owner is not liable for any misuse or illegal activities conducted with the use of this repository.
+## 💎 Premium Version
 
-## Star History
+**Looking for higher success rates and more features?**
 
-<a href="https://star-history.com/#Dorukuz/Discord-Token-Generator&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Dorukuz/Discord-Token-Generator&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Dorukuz/Discord-Token-Generator&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Dorukuz/Discord-Token-Generator&type=Date" />
- </picture>
-</a>
+Our premium version includes:
+- 90%+ success rate token generation
+- Advanced fingerprinting technology
+- Verified email option
+- Server joiner with captcha bypass
+- Phone verification support
+- Private proxy support
+- 24/7 updates and support
+
+<div align="center">
+  <a href="https://t.me/Dorukuz">
+    <img src="https://img.shields.io/badge/Contact%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+</div>
+
+## 🔧 How It Works
+
+This generator uses multiple AI techniques to solve captchas:
+
+1. **Pattern Recognition** - Identifies common hCaptcha patterns
+2. **Object Detection** - Uses YOLO to detect objects in captcha images
+3. **Text Analysis** - Extracts target objects from captcha instructions
+4. **Browser Automation** - Mimics human behavior to avoid detection
+
+## ⚠️ Disclaimer
+
+This tool is for educational purposes only. Use responsibly and in accordance with Discord's Terms of Service.
+
+## 📝 License
+
+MIT License
+
+---
+
+<div align="center">
+  <p>Developed with ❤️ by <a href="https://github.com/Dorukuz">Dorukuz</a></p>
+  <p>For business inquiries: <a href="https://t.me/Dorukuz">Telegram</a></p>
+</div>
