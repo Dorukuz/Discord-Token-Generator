@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Discord Token Generator</h1>
+  <h1>Discord Token Generator 2.0</h1>
   <p>
     <b>Powerful token generator with AI-powered captcha solving</b>
   </p>
