@@ -51,6 +51,10 @@ Our premium version includes:
 - Private proxy support
 - 24/7 updates and support
 
+
+https://github.com/user-attachments/assets/7335068d-0621-4e03-a1da-352c499dcd0b
+
+
 <div align="center">
   <a href="https://t.me/Dorukuz">
     <img src="https://img.shields.io/badge/Contact%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">
