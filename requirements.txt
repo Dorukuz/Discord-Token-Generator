@@ -8,3 +8,4 @@ undetected-chromedriver>=3.5.3
 setuptools>=69.0.0
 opencv-python>=4.7.0
 numpy>=1.24.0
+pillow>=11.2.1
