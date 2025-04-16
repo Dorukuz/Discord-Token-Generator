@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>Discord Token Generator 2.0</h1>
+  
+  <h1>If you want to support the project, you can just buy the proxies from me on Telegram. That would help me a lot, and for every 50 stars, I will upload a new update.</h1>
+  <h1>Discord Token Generator 2.0 with AI Solver</h1>
   <p>
     <b>Powerful token generator with AI-powered captcha solving</b>
   </p>
