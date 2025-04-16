@@ -34,12 +34,17 @@ python generator.py
 ## 🚀 Usage
 
 1. Run the generator: `python generator.py`
-2. The tool will automatically fetch free proxies
+2. The tool will automatically fetch free proxies or you can input your proxies to proxies.txt file
 3. Select option 1 to generate tokens
 4. Enter the number of tokens you want to create
 5. Let the AI handle captchas automatically
 6. Check `tokens.txt` for your generated tokens
-
+  
+## 💎 Premium Proxy
+- From 10% with free proxies to 50%+ success rate in token generation using premium proxies
+- Cheapest prices on the market
+- Only $20 for 5GB of high-quality residential proxies
+  
 ## 💎 Premium Version
 
 **Looking for higher success rates and more features?**
