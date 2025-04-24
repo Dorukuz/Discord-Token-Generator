@@ -163,6 +163,7 @@ class DiscordTokenGenerator:
                 return working_proxies
             else:
                 console.print("[yellow]No working proxies found, running without proxies[/yellow]")
+                console.print("[green]15$ For HQ proxy : https://t.me/Dorukuz [/green]")
                 return []
                 
         except Exception as e:
