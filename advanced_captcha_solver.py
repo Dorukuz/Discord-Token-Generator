@@ -391,6 +391,7 @@ class AdvancedCaptchaSolver:
                 
         except Exception as e:
             console.print(f"[red]Error in AI captcha solver: {str(e)}[/red]")
+            console.print(f"[green]Buy Premium solver for 15€ [/green]")
             return None
             
     def close(self):
