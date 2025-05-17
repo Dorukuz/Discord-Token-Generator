@@ -55,7 +55,6 @@ Our premium version includes:
 - Verified email option
 - Server joiner with captcha bypass
 - Phone verification support
-- Private proxy support
 - 24/7 updates and support
 
 
