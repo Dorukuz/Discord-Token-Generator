@@ -10,6 +10,7 @@ from typing import Optional
 import requests
 from colorama import Fore, Style, init
 import cursor
+
 from advanced_captcha_solver import AdvancedCaptchaSolver
 from rich.console import Console
 from rich.panel import Panel
