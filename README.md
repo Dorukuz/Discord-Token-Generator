@@ -6,11 +6,13 @@
     <b>Powerful token generator with AI-powered captcha solving</b>
   </p>
 </div>
-##Working AI solver Lifetime 250€ DM ME
+
+## Working AI solver Lifetime 250€ DM ME
 t.me/dorukuz
 
-#Axi GEN V4.0 is 10€ Lifetime  Crypto only just dm me
+## Axi GEN V4.0 is 10€ Lifetime  Crypto only just dm me
 t.me/dorukuz
+
 ## ✨ Features
 
 - **AI Captcha Solver** - Automatically solves hCaptcha without external services
