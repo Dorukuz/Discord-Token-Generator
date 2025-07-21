@@ -8,10 +8,10 @@
 </div>
 
 ## Working AI solver Lifetime 250€ DM ME
-t.me/dorukuz
+[t.me/dorukuz](https://t.me/dorukuz)
 
 ## Axi GEN V4.0 is 10€ Lifetime  Crypto only just dm me
-t.me/dorukuz
+[https://t.me/dorukuz](https://t.me/dorukuz)
 
 ## ✨ Features
 
