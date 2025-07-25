@@ -9,7 +9,7 @@
 
 Buy me a coffe maybe? LTC Wallet : ltc1qv9fltuf43re825q90kelm2tfym42sdp728v897
 
-## Axi GEN V4.0 is 10€ Lifetime  Crypto only just dm me
+## Axi GEN V4.0 is 25€ Lifetime  Crypto only just dm me
 [https://t.me/dorukuz](https://t.me/dorukuz)
 
 ## ✨ Features
