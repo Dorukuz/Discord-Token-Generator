@@ -74,6 +74,7 @@ class DiscordTokenGenerator:
         console.print("[cyan]Version:[/cyan] 2.0 (AI-Powered)\n")
         console.print("[cyan]Links:[/cyan]")
         console.print("- Telegram: https://t.me/Dorukuz")
+        console.print("- Telegram: https://t.me/axi1337")
         console.print("- Github: https://github.com/Dorukuz\n")
         console.print("[yellow]Status:[/yellow] AI Pattern Matcher Ready\n")
 
