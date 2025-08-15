@@ -1,6 +1,5 @@
 <div align="center">
   
-  <h1>If you want to support the project, you can just buy the proxies from me on Telegram. That would help me a lot, and for every 50 stars, I will upload a new update.</h1>
   <h1>Discord Token Generator 2.0 with AI Solver</h1>
   <p>
     <b>Powerful token generator with AI-powered captcha solving</b>
@@ -9,8 +8,6 @@
 
 Buy me a coffe maybe? LTC Wallet : ltc1qv9fltuf43re825q90kelm2tfym42sdp728v897
 
-## Axi GEN V4.0 is 25€ Lifetime  Crypto only just dm me
-[https://t.me/dorukuz](https://t.me/dorukuz)
 
 ## ✨ Features
 
@@ -45,32 +42,6 @@ python generator.py
 5. Let the AI handle captchas automatically
 6. Check `tokens.txt` for your generated tokens
   
-## 💎 Premium Proxy
-- From 10% with free proxies to 50%+ success rate in token generation using premium proxies
-- Cheapest prices on the market
-- Only $20 for 5GB of high-quality residential proxies
-  
-## 💎 Premium Version
-
-**Looking for higher success rates and more features?**
-
-Our premium version includes:
-- 90%+ success rate token generation
-- Advanced fingerprinting technology
-- Verified email option
-- Server joiner with captcha bypass
-- Phone verification support
-- 24/7 updates and support
-
-
-https://github.com/user-attachments/assets/7335068d-0621-4e03-a1da-352c499dcd0b
-
-
-<div align="center">
-  <a href="https://t.me/Dorukuz">
-    <img src="https://img.shields.io/badge/Contact%20on-Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a>
-</div>
 
 ## 🔧 How It Works
 
